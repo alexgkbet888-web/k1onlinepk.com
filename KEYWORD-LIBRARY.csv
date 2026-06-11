@@ -1,0 +1,18 @@
+type,keyword,target_url,intent,priority
+core,"k1 game withdrawal","/","homepage",1
+"payment","k1 game jazzcash deposit","/guides/jazzcash-deposit-guide/","payment",1
+"payment","k1 game easypaisa withdrawal","/guides/easypaisa-withdrawal-guide/","payment",1
+"support","k1 game withdrawal pending","/guides/withdrawal-pending/","support",1
+"support","k1 game failed deposit","/guides/failed-deposit/","support",1
+"wallet","k1 game minimum withdrawal","/guides/minimum-withdrawal/","wallet",2
+"support","k1 game account name mismatch","/guides/account-name-mismatch/","support",2
+"comparison","k1 game deposit vs withdrawal","/guides/deposit-vs-withdrawal/","comparison",2
+"safety","k1 game payment safety","/guides/payment-safety/","safety",2
+"support","k1 game transaction proof","/guides/transaction-proof/","support",3
+"faq","k1 game wallet pakistan faq","/guides/wallet-faq-pakistan/","faq",3
+"comparison","k1 game jazzcash vs easypaisa","/guides/jazzcash-vs-easypaisa/","comparison",3
+"freshness","k1 game payment issue log","/guides/weekly-payment-log/","freshness",3
+hub,"JazzCash Guide","/jazzcash-guide/","hub",1
+hub,"Easypaisa Guide","/easypaisa-guide/","hub",2
+hub,"Withdrawals","/withdrawals/","hub",3
+hub,"Payment Issues","/payment-issues/","hub",4
