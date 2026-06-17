@@ -19,3 +19,4 @@ hub,"Payment Issues","/payment-issues/","hub",4
 "wallet","k1 game withdrawal pending jazzcash","/guides/withdrawal-pending-jazzcash/","wallet",1
 "wallet","k1 game wallet balance not showing","/guides/wallet-balance-not-showing/","wallet",1
 "hub","k1 game wallet pending proof","/guides/wallet-pending-proof-center/","hub",1
+"next-sprint","k1 game deposit successful but balance not added","/guides/deposit-successful-but-balance-not-added/","next-sprint",1
