@@ -1,10 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>K1 Wallet Pakistan Feed</title>
     <link>http://k1onlinepk.com/</link>
     <description>Recent guide updates for K1 Wallet Pakistan.</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:10:00 GMT</lastBuildDate>
+    <item>
+      <title>K1 Game Withdrawal Rejected Bank Details: Pakistan Wallet Checklist</title>
+      <link>http://k1onlinepk.com/guides/withdrawal-rejected-bank-details/</link>
+      <guid>http://k1onlinepk.com/guides/withdrawal-rejected-bank-details/</guid>
+      <pubDate>Fri, 19 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Pakistan wallet troubleshooting guide for K1 Game users whose withdrawal is rejected because account name, bank details, or wallet identity fields do not match.</description>
+    </item>
+    <item>
+      <title>K1 Game Deposit Bonus Not Added: What Pakistan Users Should Check</title>
+      <link>http://k1onlinepk.com/guides/deposit-bonus-not-added/</link>
+      <guid>http://k1onlinepk.com/guides/deposit-bonus-not-added/</guid>
+      <pubDate>Thu, 18 Jun 2026 14:10:00 GMT</pubDate>
+      <description>Wallet troubleshooting guide for K1 Game users whose deposit arrived but the related bonus did not appear in the visible balance or promo area.</description>
+    </item>
     <item>
       <title>K1 Game Deposit Successful but Balance Not Added: Proof Checklist</title>
       <link>http://k1onlinepk.com/guides/deposit-successful-but-balance-not-added/</link>
@@ -175,3 +189,4 @@
     </item>
   </channel>
 </rss>
+
