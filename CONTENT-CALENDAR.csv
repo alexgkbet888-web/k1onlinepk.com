@@ -1,4 +1,4 @@
-week,site,content_type,target_keyword,url,action
+﻿week,site,content_type,target_keyword,url,action
 1,"K1 Wallet Pakistan","payment","k1 game jazzcash deposit","/guides/jazzcash-deposit-guide/","Publish or improve: K1 Game JazzCash Deposit Guide"
 1,"K1 Wallet Pakistan","payment","k1 game easypaisa withdrawal","/guides/easypaisa-withdrawal-guide/","Publish or improve: K1 Game Easypaisa Withdrawal Guide"
 1,"K1 Wallet Pakistan","support","k1 game withdrawal pending","/guides/withdrawal-pending/","Publish or improve: K1 Game Withdrawal Pending: Evidence Checklist"
@@ -29,3 +29,8 @@ week,site,content_type,target_keyword,url,action
 7,"K1 Wallet Pakistan","wallet","k1 game wallet balance not showing","/guides/wallet-balance-not-showing/","Publish or improve: K1 Game Wallet Balance Not Showing: Refresh and Proof Guide"
 8,"K1 Wallet Pakistan","wallet hub","k1 game wallet pending proof","/guides/wallet-pending-proof-center/","Publish or improve: K1 Game Wallet Pending and Proof Center for Pakistan"
 2026-06-18,k1onlinepk.com,K1 Wallet Pakistan,"k1 game deposit successful but balance not added",/guides/deposit-successful-but-balance-not-added/,next content sprint
+"2026-06-18","published","k1 game deposit bonus not added","/guides/deposit-bonus-not-added/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+"2026-06-19","published","k1 game withdrawal rejected bank details","/guides/withdrawal-rejected-bank-details/","daily content sprint","new long-tail page with FAQ, internal links, sitemap and feed update"
+
+"2026-06-20","planned","k1 game jazzcash name mismatch withdrawal","/guides/jazzcash-name-mismatch-withdrawal/","next content sprint","Publish or improve: K1 Game JazzCash Name Mismatch Withdrawal"
+"2026-06-21","planned","k1 game easypaisa withdrawal under review","/guides/easypaisa-withdrawal-under-review/","next content sprint","Publish or improve: K1 Game Easypaisa Withdrawal Under Review"
