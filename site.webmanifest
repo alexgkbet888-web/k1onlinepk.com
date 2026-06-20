@@ -1,0 +1,13 @@
+{
+    "name":  "K1 Wallet Pakistan",
+    "short_name":  "K1 Wallet Pakistan",
+    "start_url":  "/",
+    "scope":  "/",
+    "display":  "standalone",
+    "background_color":  "#ffffff",
+    "theme_color":  "#0f172a",
+    "description":  "Pakistan-focused K1 wallet guide covering withdrawal checks, deposit flow, JazzCash and Easypaisa notes, transaction evidence and account safety reminders.",
+    "icons":  [
+
+              ]
+}
