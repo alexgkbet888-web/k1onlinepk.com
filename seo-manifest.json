@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "k1onlinepk.com",
+  "brand": "K1 Online PK",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "K1-P1",
+  "owner": "alexgkbet888-web",
+  "deployUrl": "https://k1onlinepk.com/",
+  "siteType": "authority",
+  "positioning": "K1 Pakistan wallet, withdrawal, deposit and support guide",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "K-1 support",
+    "K1 support",
+    "K1 wallet Pakistan"
+  ],
+  "secondaryKeywords": [
+    "K1 withdrawal pending",
+    "K1 JazzCash deposit",
+    "K1 Easypaisa withdrawal",
+    "K1 payment support"
+  ],
+  "technical": {
+    "sitemapUrl": "https://k1onlinepk.com/sitemap.xml",
+    "robotsUrl": "https://k1onlinepk.com/robots.txt",
+    "feedUrl": "https://k1onlinepk.com/feed.xml",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:k1onlinepk.com",
+    "connected": true
+  },
+  "monitoring": {
+    "source": "local-generated",
+    "generatedAt": "2026-06-28",
+    "evidencePolicy": "Do not infer clicks, impressions, CTR, ranking, or indexing without GSC/SERP evidence."
+  }
+}
